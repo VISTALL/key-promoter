@@ -74,7 +74,6 @@
         </ul>
     </ul>]]>
     </change-notes>
-    <idea-version since-build="107.587"/>
     <application-components>
         <component>
             <implementation-class>org.jetbrains.contest.keypromoter.KeyPromoter</implementation-class>
@@ -83,6 +82,4 @@
             <implementation-class>org.jetbrains.contest.keypromoter.KeyPromoterConfiguration</implementation-class>
         </component>
     </application-components>
-    <!-- Mark the plugin as compatible with RubyMine and other products based on the IntelliJ platform -->
-    <depends>com.intellij.modules.lang</depends>
 </idea-plugin>
